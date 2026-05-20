@@ -65,6 +65,44 @@ students.remove("karan")
 print("Removed karan",students)
 
 
+print("iv.)create tuple and change value observer the error)")
+
+print("\n")
+
+#city=("Surat","Ahmedabad","Botad","Navsari","Amroli")
+
+#print(city)
+
+#city[2]="Bhavnagar"
+
+# ERROR IS (tuple object does not support item assignment)
+
+
+print("v.)get square of even numbers)")
+
+print("\n")
+
+squares=[i**2 for i in range(1,20)]
+
+print(squares)
+
+
+print("vii.)print student name )")
+
+print("\n")
+
+students=[
+    {"id":1,"name":"shwet","score":"99"},
+    {"id":2,"name":"meet","score":"89"},
+    {"id":3,"name":"jay","score":"70"},
+]
+for student in students:
+    print(f"
+
+
+
+
+
 
 
 
