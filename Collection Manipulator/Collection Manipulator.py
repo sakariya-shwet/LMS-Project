@@ -12,7 +12,7 @@ while True:
     print("e. Display subjects stored")
     print("f. Exit")
 
-    choice = input("Enter your choice: ").lower()
+    choice = input("Enter your choice: ")
 
     
     if choice == "a":
